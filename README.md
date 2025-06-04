@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Tomokii17
-- 👀 I’m interested in Software engineering and harware and programing
-- 🌱 I’m currently learning language C !!
-- 📫 How to reach me danielbwolf10@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: my fav color is green !
-- Im currently at the first semester of software engennering at UNIGRAN
+👋 Hi, I'm @Tomokii17  
+💻 I'm interested in Software Engineering, hardware, and programming  
+📚 I'm currently learning the C language!!  
+📫 How to reach me: danielbwolf10@gmail.com  
+⚧ Pronouns: he/him  
+🎨 Fun fact: my favorite color is green!  
+🏫 I'm currently in my first semester of Software Engineering at UNIGRAN
 
 <!---
 Tomokii17/Tomokii17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
