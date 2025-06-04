@@ -4,6 +4,7 @@
 - 📫 How to reach me danielbwolf10@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my fav color is green !
+- Im currently at the first semester of software engennering at UNIGRAN
 
 <!---
 Tomokii17/Tomokii17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
